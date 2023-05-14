@@ -33,14 +33,14 @@ var config = {
 			module: "clock",
 			position: "top_left",
 			config: {
-				timezone: "Europe/Prague"
+				timezone: "Europe/Prague" //YOUR TIMEZONE
 			}
 		},
 		{
 			module: "compliments",
 			position: "middle_center",
 			config: {
-				remoteFile: 'https://raw.githubusercontent.com/melovin/citaty/main/compliments.json'
+				remoteFile: 'URL FOR YOUR JSON COMPLIMENTS' // FOR EXAMPLE -> "https://raw.githubusercontent.com/melovin/citaty/main/compliments.json"
 			}
 		},
 		{
@@ -48,7 +48,7 @@ var config = {
 			position: "top_right",
 			config: {
 				location: "Prague",
-				locationID: "3067696",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
+				locationID: "1234567",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
 				appid: "070f7e1283abd6422b2a4207b050bce7"
 			}
 		},
@@ -58,7 +58,7 @@ var config = {
 			header: "Weather Forecast",
 			config: {
 				location: "Prague",
-				locationID: "3067696",  //ID from https://openweathermap.org/city
+				locationID: "1234567",  //ID from https://openweathermap.org/city
 				appid: "070f7e1283abd6422b2a4207b050bce7"
 			}
 		},
@@ -70,7 +70,7 @@ var config = {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						//url: "https://calendar.google.com/calendar/ical/ruslankazubareva%40gmail.com/private-0af0134671c3dc7cd86a6dc4064b0279/basic.ics"
+						//url: "https://calendar.google.com/calendar/ical/..." -> link to your gmail calender
 					}
 				]
 			}
