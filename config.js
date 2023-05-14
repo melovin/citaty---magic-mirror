@@ -70,7 +70,7 @@ var config = {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						url: "https://calendar.google.com/calendar/ical/ruslankazubareva%40gmail.com/private-0af0134671c3dc7cd86a6dc4064b0279/basic.ics"
+						//url: "https://calendar.google.com/calendar/ical/ruslankazubareva%40gmail.com/private-0af0134671c3dc7cd86a6dc4064b0279/basic.ics"
 					}
 				]
 			}
