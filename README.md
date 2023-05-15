@@ -1,6 +1,9 @@
 # MAGIC MIRROR
 ### > PARTS
   * Raspberry PI ZERO
+  * Digispark attiny85 mikroprocesor
+  * SRD-05VDC-SL-C relay
+  * Switch
   * Old TV
   * SD card with Raspbian (in project folder)
   > PS: When I was almost done, I accidentally broke the SD card with the os :) I had no idea where the problem was, so I bought a new raspberry PI because of it. At least now I have an extra raspberry PI for my next project :)
