@@ -1,7 +1,7 @@
 # MAGIC MIRROR
 ### > PARTS
   * Raspberry PI ZERO
-  * Digispark attiny85 mikroprocesor
+  * Digispark attiny85 microprocessor
   * SRD-05VDC-SL-C relay
   * Switch
   * Old TV
